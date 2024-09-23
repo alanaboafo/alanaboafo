@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alanaboafo
 - 👀 I’m interested in Scripting Languages and Cybersecurity 
-- 🌱 I’m currently learning Linux and Cyber Risk Management 
+- 🌱 I’m currently learning Linux, HTML, Data Management, and Cyber Risk Management 
 - 💞️ I’m looking to collaborate on many tech projects, internships, and jobs 
 - 📫 How to reach me: Linkedin @AlanaBoafo. 
 - 😄 Pronouns: She/Her/Hers 
